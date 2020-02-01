@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main ()
+{
+	int opc=0, num1 = 0, num2 = 0;
+	do
+	{
+		printf("\n----------------BIENVENIDO---------------- ");
+ 
+        printf( "\n   1. Decimal.");
+        printf( "\n   2. Binario.");
+        printf( "\n   3. Octal.");
+        printf( "\n   4. Hexadecimal.");
+        printf( "\n   5. Salir.");
+	}
+
+}
