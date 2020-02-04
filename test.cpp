@@ -120,7 +120,7 @@ void Decimal()
     switch (menu) {
         case 1:
   		    printf("1. decimal a binario");
-            getch();
+            //getchar();
             //break;
         case 2: printf("2. decimal a octal");   break;
 	    case 3: printf("3. decimal a hexadecimal"); break;
